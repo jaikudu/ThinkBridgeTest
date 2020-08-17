@@ -1,0 +1,25 @@
+1.	Functionality
+
+	Validation errors for required fields comes when we click on generate OTP button.
+	They should be come on tab change event.
+	In Uploading document section, validation error of document file type and size is coming after page post back. Without selecting any file if we click on upload document the validation error comes left corner of box which doesn't look good. 
+	Validation error should come above/below element which is targeted.
+	
+	
+	Getting error in console as follows,
+	Failed to load resource: the server responded with a status of 404 (Not Found).
+	Failed to load resource: the server responded with a status of 404 (Not Found).
+	
+
+2.	Usability
+
+	One should take confirmation before resetting all fields like "Do you really want to reset all filled information?".
+	We could follow google material design principles to make it look good and also "Mobile First" approach.
+
+3.	UI Aesthetics
+
+	Dropdown lengths are uneven.
+	UI Looks too static and not responsive.
+	Animations and transitions should be included.
+	Color scheme and Fonts should be standardized.
+	In general UI is not appealing or eye pleasing. All web controls having rectangular shapes, instead of rectangular more dynamic, soft and smooth edged controls are recommended.
